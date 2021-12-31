@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+target 'Todo' do
+  pod 'GoogleMaps'
+  pod 'Alamofire'
+  pod 'RxSwift'
+  pod 'RxCocoa'
+end
